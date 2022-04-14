@@ -1,7 +1,7 @@
 <h1 align="center" > ]|I{•------» Nσρყϝყ-Rαɳʂσɱɯαɾҽ «------•}I|[ </h1>
 <h3 align="center">ａｎ Ａｄｖａｎｃｅｄ Ｒａｎｓｏｍｗａｒｅ</h3>
 
-<p align="center"><a target="_blank" href="https://github.com/in-future-world/Nopyfy-Ransomware">
+<p align="center"><a target="_blank" href="https://github.com/TigerMates/NoPyFy_Ransomware">
   <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=in-future-world.Nopyfy-Ransomware" />
   <img src="https://img.shields.io/github/repo-size/in-future-world/Nopyfy-Ransomware" />   
@@ -17,16 +17,16 @@
 ##
 
 # Description 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:info@infutureworld.xyz) <br />
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/TigerMatee) <br />
 Nopyfy-Ransomware is Open source Ransomware. you can download it's source Code from above. it is similar to hidden-tear ransomware but nopyfy is a`highly-upgraded` version of hidden tear. It has more feature than hidden tear and also very easy to use beacause all things which user can fill are in one place and also Nopyfy prevent from Victim data lost by encrypt and save in localy when user are offline during attack. Nopyfy use symmetric AES algorithm to encrypt files. Nopyfy is very easy to use, Try it.
 
 
 
 
-## if You not know how to build-up this Virus, Click [here](https://rzp.io/l/Nopyfy-Ransomeware).
+## if You not know how to build-up this Virus Paid me for Build and knock me Telegram for build order, Click [here](https://t.me/TigerMatee).
 In form, leave those feature which didn't want you. It's very simple to fill form. Try...it.</br>
 Get Now - 
-<a href="https://rzp.io/l/Nopyfy-Ransomeware" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
+<a href="https://t.me/TigerMatee" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
 
 ## Features that you will use
 **Ransomware size is only `22kb`**
@@ -145,29 +145,6 @@ First open `Nopyfy-information-decrypter.exe` application in `Nopyfy-information
 - Windows 
 
 
-
-## Contact us
-
-[![Gmail!](https://img.shields.io/badge/Primary-Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:info@infutureworld.xyz)
-[![Gmail!](https://img.shields.io/badge/Secondary-Gmail-D14836?style=&logo=gmail&logoColor=white)](mailto:help.infutureworld@gmail.com)
-[![Twitter!](https://img.shields.io/badge/Twitter-1DA1F2?style=&logo=twitter&logoColor=white)](https://twitter.com/In_future_world)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=&logo=instagram&logoColor=white)](https://www.instagram.com/in_future_world/)
-[![YouTube](https://img.shields.io/badge/You-Tube-red?style=&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCh5_VB1guUcc0mWAOc7etrA)
-[![Git Hub](https://img.shields.io/badge/Git-Hub-lightgrey?style=&logo=github&logoColor=white)](https://github.com/in-future-world)
-[![Contact Us](https://img.shields.io/badge/Contact-Us-blue?style=&logo=deviantart&logoColor=white)](https://www.infutureworld.xyz/contact-us)
-
-
-
-
-Primary Email: info@infutureworld.xyz <br />
-Secondary Email: help.infutureworld@gmail.com <br />
-Website for contacting us: https://www.infutureworld.xyz/contact-us <br />
-YouTube: [In_Future_World](https://www.youtube.com/channel/UCh5_VB1guUcc0mWAOc7etrA) and [Craft Book](https://www.youtube.com/channel/UCWjay1fq6WaL_svEhQ68XMg) <br />
-Instagram: [In_Future_World](https://www.instagram.com/in_future_world/) <br />
-Twitter: [In_Future_World](https://twitter.com/In_future_world) <br />
-GitHub: [in-future-world](https://github.com/in-future-world) <br />
-
-
 ## Legal Warning for Users
 While this may be helpful for some, there are significant risks. Nopyfy may be used only for Educational Purposes Only. Do not use it as a ransomware! You could go to jail on obstruction of justice charges just for running Nopyfy, even though you are innocent.
 
@@ -180,13 +157,7 @@ While this may be helpful for some, there are significant risks. Nopyfy may be u
 <br>
 
 ## Support:
-<p><a href="https://www.buymeacoffee.com/infutureworld"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infutureworld" /></a></p><br>
+<p>BTC = 3A57dJWEtZezKAHfPYvKXQoDSi93xVRwKJ </a></p><br>
 
 <br>
-
-<br>You can find me on <a target="_blank" href="https://twitter.com/in_future_world">
-  <img alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/88558310/129485486-5fbaa4f6-dce2-4a3d-9ad0-de09abaf1afb.png" />
-</a>, or on  <a target="_blank" href="https://www.instagram.com/in_future_world">
-  <img alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/88558310/129485437-411924e1-b7d0-4f28-a8ca-b3886cc98e8c.png" />
-</a>
 
