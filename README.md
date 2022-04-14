@@ -126,7 +126,7 @@ First open `Nopyfy-Decrypter.sln` file in `Nopyfy-Decrypter` folder and then go 
 ### How to use
 After any vitim get successfull attack,goto task manager and end process of Nopyfy or restart pc </br>
 password(10 digit password) get by these method - </br>
-- goto your Web pannel (ex of my pannel - client.infutureworld.xyz/Server) and type your username and password (default username and password - test) and in password collom, copy it.
+- goto your Web pannel (ex of my pannel - client.ok.xyz/Server) and type your username and password (default username and password - test) and in password collom, copy it.
 - goto mail app and you will saw a mail that subject is as well as victim pc nam,open it and copy password
 - goto ftp account(where you provide link in line 84) and you will see file that name as pc name and some random word, open it and copy password
 - goto `Server` folder of file manager and find result.txt file, open it and copy password
