@@ -161,3 +161,22 @@ While this may be helpful for some, there are significant risks. Nopyfy may be u
 
 <br>
 
+# Screenshots
+
+![After Attack](https://user-images.githubusercontent.com/97356565/149203169-66d46566-8cbd-4fdd-8c70-17c62286f1f4.png)
+
+![FTP Server file](https://user-images.githubusercontent.com/97356565/149203234-8d2641fc-a623-4b4c-9d3c-d3560aa47419.png)
+
+![Getting Data using Victim ID](https://user-images.githubusercontent.com/97356565/149661050-db156eef-c927-44c4-b0d2-de0e0b4148fc.png)
+
+![Gmail SMTP](https://user-images.githubusercontent.com/97356565/149203246-84a65677-7131-4681-a803-e5aba4c4b627.png)
+
+!['result txt' file](https://user-images.githubusercontent.com/97356565/149203257-de268ee1-61b7-4fd9-b631-c43d3138446e.png)
+
+![Web-Panel](https://user-images.githubusercontent.com/97356565/149203267-98a6bf31-5b0c-4f07-a684-e25e94ebbe75.png)
+
+<br>
+
+DEMo USE it only VM : [Demo](https://mega.nz/folder/TmZS1DyI#pRLU2jX2pM5XHc-AsVUhmA)
+
+
